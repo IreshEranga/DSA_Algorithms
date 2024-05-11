@@ -1,2 +1,2 @@
-#Algorithms
-Some of Algorithm codes in there
+<h1>Algorithms</h1> <br/>
+Algorithms practiced for DSA lab test.
