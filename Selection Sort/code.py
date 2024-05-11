@@ -18,7 +18,7 @@ def SELECTIONSORT(A):
                 smallest=i
             A[j],A[smallest]=A[smallest],A[j]
             
-
+#call the function
 SELECTIONSORT(A)
 print("Sorting data : ", A)
             
