@@ -13,5 +13,6 @@ def BUBBLESORT(A):
             if A[j] < A[j-1]:
                 A[j],A[j-1]=A[j-1],A[j]
 
+#function call
 BUBBLESORT(A)
 print("Sorted Array : ",A)
